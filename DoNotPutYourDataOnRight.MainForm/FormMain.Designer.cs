@@ -1,4 +1,4 @@
-﻿namespace DonPutYourDataOnRight.Application
+﻿namespace DoNotPutYourDataOnRight.Application
 {
     partial class FormMain
     {

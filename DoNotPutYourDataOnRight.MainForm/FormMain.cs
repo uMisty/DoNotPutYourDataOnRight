@@ -1,5 +1,5 @@
 ﻿using DocumentFormat.OpenXml.Spreadsheet;
-using DonPutYourDataOnRight.Application.Helper;
+using DoNotPutYourDataOnRight.Application.Helper;
 using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ using System.Data;
 using System.IO;
 using System.Windows.Forms;
 
-namespace DonPutYourDataOnRight.Application
+namespace DoNotPutYourDataOnRight.Application
 {
     public partial class FormMain : Form
     {

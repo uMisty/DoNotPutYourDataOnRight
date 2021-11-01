@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 
-namespace DonPutYourDataOnRight.Application
+namespace DoNotPutYourDataOnRight.Application
 {
     internal static class Program
     {

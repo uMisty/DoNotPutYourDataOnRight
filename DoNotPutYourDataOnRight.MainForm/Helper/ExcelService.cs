@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace DonPutYourDataOnRight.Application.Helper
+namespace DoNotPutYourDataOnRight.Application.Helper
 {
     internal class ExcelFile
     {
